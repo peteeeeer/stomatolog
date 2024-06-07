@@ -10,7 +10,6 @@ h1{
 header{
     color: aliceblue;
 padding-bottom: 50px;
-    background-color: ;
 }
 nav{
     font-size: 40px;
@@ -18,6 +17,7 @@ nav{
     display: flex;
 }
 h2{
+    text-align: center;
 color: aliceblue;
     font-size: 45px;
 }
@@ -88,6 +88,9 @@ a{
 color: rgb(138, 232, 249);
     text-decoration: none;
 }
+.nigger{
+    text-align: center;
+}
 footer{
-    margin-top:50px;
+    margin-top: 50px;
 }
